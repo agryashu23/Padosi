@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693066437582",
+    "firebase_url": "https://salonapp-b2a83-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "salonapp-b2a83",
+    "storage_bucket": "salonapp-b2a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693066437582:android:aedc2ebdc76f844a04519f",
+        "android_client_info": {
+          "package_name": "com.padosi.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693066437582-f4k3fo9b39njlhk8deg38obknei7h8n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.padosi.home",
+            "certificate_hash": "167902a465ddfb3b50e11d1f3a39f855acc1970b"
+          }
+        },
+        {
+          "client_id": "693066437582-i78b9bbgd1roguf4pfoutsbvom150qto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa3y-9kmmv7iwdKQPLMsj_992i_-zO8YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693066437582-i78b9bbgd1roguf4pfoutsbvom150qto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
